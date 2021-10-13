@@ -1,5 +1,5 @@
 {
-    "name": "test-magenx/module-msrp-configurable-product",
+    "name": "magenxcommerce/module-msrp-configurable-product",
     "description": "N/A",
     "config": {
         "sort-packages": true
